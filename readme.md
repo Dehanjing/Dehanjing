@@ -17,8 +17,8 @@
   </blockquote>
   
   ```diff
-  + <\>
-  - </>
+  + <\> teach me senpai!
+  - </> ;-; aaf
   ```
   ```bash
   {
