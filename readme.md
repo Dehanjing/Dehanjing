@@ -60,13 +60,9 @@
     <h2>Github Statistics</h2>
   </blockquote>
   
-<p align="center">
-
- 
-  <p align="center">
-<a href="https://github.com/Dehanjing">
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dehanjing&theme=radical&show_icons=true" />
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dehanjing&theme=monokai" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehanjing&layout=compact&theme=monokai" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dehanjing&theme=monokai"/>
-</a>
+</div>
