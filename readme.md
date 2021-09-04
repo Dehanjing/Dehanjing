@@ -60,6 +60,21 @@
     <h2>Github Statistics</h2>
   </blockquote>
   
+<p align="center">
+
 ![Dehanjing](https://github-readme-stats.vercel.app/api?username=Dehanjing&theme=radical&show_icons=true) 
 ![Dehanjing](https://github-readme-stats.vercel.app/api/top-langs/?username=Dehanjing&layout=compact&theme=radical)
 ![Dehanjing](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dehanjing&theme=monokai)
+
+<p align="center">
+<a href="https://github.com/Dehanjing">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=knightbearr&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=knightbearr&layout=compact&langs_count=8&theme=bear"/>
+</a>
+
+ ![Dehanjing](https://activity-graph.herokuapp.com/graph?username=Dehanjing&theme=monokai)
+ 
+  <p align="center">
+<a href="https://github.com/Dehanjing">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dehanjing&theme=monokai"/>
+</a>
