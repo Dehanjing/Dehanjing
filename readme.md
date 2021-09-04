@@ -16,6 +16,10 @@
     <h2>Introduce me!</h2>
   </blockquote>
   
+  ```diff
+  + <\>
+  - </>
+  ```
   ```bash
   {
     "name": "Dehante",
@@ -61,7 +65,7 @@
   </blockquote>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dehanjing&theme=radical&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dehanjing&theme=monokai&show_icons=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dehanjing&theme=monokai" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dehanjing&layout=compact&theme=monokai" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dehanjing&theme=monokai"/>
